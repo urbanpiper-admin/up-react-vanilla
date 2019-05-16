@@ -7,7 +7,7 @@ The following are configured and ready to use.
 
 
 ### Available scripts:  
-npm start  
-npm test  
-npm run build  
-npm run eject  
+`npm start`  
+`npm test`  
+`npm run build`  
+`npm run eject`  
