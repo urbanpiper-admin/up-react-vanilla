@@ -4,6 +4,7 @@ The following are configured and ready to use. Run `npm install`.
 
 1) Redux - Make reducers in `./src/reducers/`;
 2) React Router
+3) SASS support
 
 
 ### Available scripts:  
