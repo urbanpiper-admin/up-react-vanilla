@@ -5,7 +5,7 @@ import store from './store';
 
 import SomePage from './Pages/SomePage';
 import LandingPage from './Pages/LandingPage';
-import './App.css';
+import './App.scss';
 
 class App extends Component {
 	render() {
