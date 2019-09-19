@@ -1,3 +1,5 @@
+# React-redux vanilla template.
+
 This project was bootstrapped with "Create React App". This code base is made to fast-forward the intermidiate setup process while starting new project.
 
 The following are configured and ready to use. Run `npm install`.  
